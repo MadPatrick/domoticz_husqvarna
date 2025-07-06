@@ -1,0 +1,9 @@
+{
+"height_min_max (cm)": {"min": 2, "max": 6, "steps": 9},
+"zones": [
+    {"name": "Zone1", "latitude": 0, "longitude": 0},
+    {"name": "Zone2", "latitude": 0, "longitude": 0},
+    {"name": "Zone3", "latitude": 0, "longitude": 0},
+    {"name": "Zone4", "latitude": 0, "longitude": 0}
+    ]
+}
